@@ -1,2 +1,1 @@
-# Js-Projects beginner level
-
+# Js-Projects 
